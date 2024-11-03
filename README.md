@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Penha, Santa Catarina, Brazil
-* ✉️  You can contact me at [marcosvdcumpierre@gmail.com](mailto:marcosvdcumpierre@gmail.com)
+* ✉️  [marcosvdcumpierre@gmail.com](mailto:marcosvdcumpierre@gmail.com)
 
 ### Skills
 
