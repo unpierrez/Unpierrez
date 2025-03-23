@@ -1,4 +1,4 @@
-Web Developer
+Software Developer / Web Developer
 -------------
 
 * 🌍  Penha, Santa Catarina, Brazil
