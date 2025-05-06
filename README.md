@@ -2,7 +2,6 @@ Web Developer
 -------------
 
 * 🌍  Penha, Santa Catarina, Brazil
-* ✉️  [marcosvdcumpierre@gmail.com](mailto:marcosvdcumpierre@gmail.com)
 
 ### Socials
 
